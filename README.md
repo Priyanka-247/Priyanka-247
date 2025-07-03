@@ -7,18 +7,21 @@
 
 ---
 
-- 🌱 I’m currently learning **Full Stack Development**
-- 💻 Exploring AI and DS (Student at SNS College)**
-- 🎯 Dedicated to solving **daily LeetCode problems** with an active streak
-- 📝 Presented papers on:
+- 🌱 I’m currently learning **Full Stack Development** using MERN & Java-based stacks  
+- 💻 Exploring **Artificial Intelligence & Data Science** (🎓 Student at SNS College)  
+- 🎯 Dedicated to solving **daily LeetCode challenges** with consistency and curiosity  
+- 🛠️ Working on projects like **Smart Resume Analyzer + Job Recommender** (Snowflake Challenge)  
+- 🌟 Participated in **Raise Your Hack 2025 Hackathon** – Built impactful prototypes  
+- 📽️ Created mini apps using **Streamlit + HuggingFace + Snowflake** for real-world AI cases  
+- 📝 Presented innovative papers:
   - 🚜 *Farm to Table using AI*
   - 🚌 *Bus Tracking System*
   - 🧥 *Smart Mood Recognizing Jacket*
-- 🌐 Languages: Tamil 🇮🇳 | English 🇬🇧 | French 🇫🇷
+- 🌍 Languages I speak: **Tamil 🇮🇳 | English 🇬🇧 | French 🇫🇷**
 - 📚 Completed Online Learnings:
-  - 🧠 Introduction to AI
-  - 🤖 Intro to Generative AI
-  - 📊 Discover Data Analysis
+  - 🧠 *Introduction to AI* (Microsoft Learn)
+  - 🤖 *Intro to Generative AI* (Google Cloud)
+  - 📊 *Discover Data Analysis* (Coursera)
 
 ---
 
@@ -28,7 +31,7 @@
   <a href="https://www.linkedin.com/in/priyanka%20b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka b" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/Priyanka%20B" target="blank">
+  <a href="https://leetcode.com/Priyanka%20B" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanka b" height="30" width="40" />
   </a>
 </p>
@@ -47,6 +50,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  </a>
   <a href="https://www.microsoft.com/en/microsoft-365/word" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/ms-word.png" alt="ms-word" width="40" height="40"/>
   </a>
@@ -64,7 +70,23 @@
 
 > 🧩 Solving daily challenges to sharpen problem-solving skills
 
+- ✅ Easy Problems Solved: `134+`
+- ⚙️ Medium Problems Solved: `71+`
+- 🔐 Hard Problems Tackled: `8+`
 
+<img src="https://leetcard.jacoblin.cool/Priyanka%20B?ext=contest" alt="Priyanka's Leetcode Stats" />
+
+---
+
+### 🧠 Featured Projects
+
+- 💼 **Smart Resume Analyzer** (Streamlit + Snowflake + HuggingFace)
+- 📦 **Inventory Tracker System** using JavaFX + File Handling
+- 📶 **Bus Route Live Tracking (Paper + UI Model)**
+- 🌾 **Farm-to-Table Crop Mapper with AI** (Presentation + Prototype)
+- 🧥 **IoT Mood Recognizing Jacket** – Wearable-based emotion tracking
+
+---
 
 ### ✨ Quote
 
@@ -72,3 +94,5 @@
 > — Priyanka B 💫
 
 ---
+
+
