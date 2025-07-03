@@ -72,10 +72,3 @@
 > — Priyanka B 💫
 
 ---
-
-### 🎯 GitHub Stats (Optional)
-
-If you want to include your GitHub contribution stats, you can also add this:
-
-```markdown
-![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanka-247&show_icons=true&theme=radical)
