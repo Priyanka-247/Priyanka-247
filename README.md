@@ -64,16 +64,6 @@
 
 > 🧩 Solving daily challenges to sharpen problem-solving skills
 
-### 🔥 LeetCode Progress Overview
-
-<p align="center">
-  <img src="https://github.com/Priyanka-247/Priyanka-247/blob/main/assets/leetcode_progress_pie.png" alt="LeetCode Problem Progress Chart" width="300"/>
-</p>
-
-- ✅ Easy: 134  
-- ⚡ Medium: 71  
-- 🔥 Hard: 8
-
 
 
 ### ✨ Quote
