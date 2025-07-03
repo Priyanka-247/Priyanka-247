@@ -8,7 +8,7 @@
 ---
 
 - 🌱 I’m currently learning **Full Stack Development**
-- 💻 Exploring AI-powered apps using **Snowflake, Streamlit, HuggingFace**
+- 💻 Exploring AI and DS (Student at SNS College)**
 - 🎯 Dedicated to solving **daily LeetCode problems** with an active streak
 - 📝 Presented papers on:
   - 🚜 *Farm to Table using AI*
@@ -64,9 +64,10 @@
 
 > 🧩 Solving daily challenges to sharpen problem-solving skills
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Priyanka%20B?theme=dark&font=Karma&ext=heatmap)
+<p align="center">
+  <img src="https://leetcode-card.vercel.app/?username=Priyanka%20B&theme=dark&showSolvedCount=true&showTodaySolved=true&fontFamily=Karma&ext=heatmap" alt="LeetCode Progress Card" />
+</p>
 
----
 
 ### ✨ Quote
 
