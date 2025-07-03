@@ -8,6 +8,7 @@
 ---
 
 - 🌱 I’m currently learning **Full Stack Development**
+  
 -💻 Exploring **Artificial Intelligence & Data Science** (🎓 Student at SNS College) 
 - 🎯 Dedicated to solving **daily LeetCode challenges** with consistency and curiosity 
 - 📝 Presented papers on:
