@@ -19,8 +19,8 @@
   - 🧠 Introduction to AI
   - 🤖 Intro to Generative AI
   - 📊 Discover Data Analysis
+  
 -💌 I’m open to internships, collaborations, and AI projects.  
-📬 Reach out to me via [LinkedIn](https://linkedin.com/in/priyanka%20b)
 
 ---
 
